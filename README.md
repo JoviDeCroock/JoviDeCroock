@@ -9,7 +9,7 @@ I'm a [Software Engineer at Formidable](https://formidable.com/), I'd describe m
 - [Hooked-form](https://github.com/JoviDeCroock/Hooked-Form)
 - [webpack-module-nomodule-plugin](https://github.com/JoviDeCroock/webpack-module-nomodule-plugin)
 
-I have a deep interest for 
+Some information about me
 
 - 🔭 I’m currently working on The above OSS projects
 - 🌱 I’m currently learning AWS and K8s
