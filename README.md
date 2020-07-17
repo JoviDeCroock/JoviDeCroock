@@ -1,16 +1,19 @@
-### Hi there 👋
+Hey 👋 I'm Jovi
 
-<!--
-**JoviDeCroock/JoviDeCroock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a [Software Engineer at Formidable](https://formidable.com/), I'd describe myself a full stack developer. I'm involved in some Open-source work like:
 
-Here are some ideas to get you started:
+- [Preact](https://github.com/preactjs/preact)
+- [urql](https://github.com/FormidableLabs/urql)
+- [Prefresh](https://github.com/JoviDeCroock/prefresh)
+- [Hooked-head](https://github.com/JoviDeCroock/hooked-head)
+- [Hooked-form](https://github.com/JoviDeCroock/Hooked-Form)
+- [webpack-module-nomodule-plugin](https://github.com/JoviDeCroock/webpack-module-nomodule-plugin)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a deep interest for 
+
+- 🔭 I’m currently working on The above OSS projects
+- 🌱 I’m currently learning AWS and K8s
+- 👯 I’m looking to collaborate on performance-related projects
+- 💬 Ask me about Preact, urql or bundling
+- 📫 How to reach me: [Twitter](https://twitter.com/JoviDeC)
+- 😄 Pronouns: he/him
