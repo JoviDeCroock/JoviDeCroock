@@ -20,4 +20,4 @@ Some information about me
 
 Feel free to talk to me about Preact, urql or anything open-source/performance related. I'm happy to chat about it.
 
-<img src="https://github-readme-stats.vercel.app/api?username=JoviDeCroock&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<img alt="GitHub stats for JoviDeCroock" src="https://github-readme-stats.vercel.app/api?username=JoviDeCroock&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
