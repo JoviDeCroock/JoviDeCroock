@@ -5,7 +5,7 @@ I'm a [Software Engineer at Formidable](https://formidable.com/), I'd describe m
 - [Preact](https://github.com/preactjs/preact)
 - [urql](https://github.com/FormidableLabs/urql)
 - [Prefresh](https://github.com/JoviDeCroock/prefresh)
-- [Hooked-head](https://github.com/JoviDeCroock/hooked-head)
+- [Hoofd](https://github.com/JoviDeCroock/hoofd)
 - [Hooked-form](https://github.com/JoviDeCroock/Hooked-Form)
 - [webpack-module-nomodule-plugin](https://github.com/JoviDeCroock/webpack-module-nomodule-plugin)
 
