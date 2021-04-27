@@ -1,6 +1,6 @@
 Hey 👋 I'm Jovi
 
-I'm a [Software Engineer at Formidable](https://formidable.com/), I'd describe myself a full stack developer. I'm involved in some Open-source work like:
+I'm a [Technical lead at Formidable](https://formidable.com/), I'd describe myself a full stack developer. I'm involved in some Open-source work like:
 
 - [Preact](https://github.com/preactjs/preact)
 - [wmr](https://github.com/preactjs/wmr)
