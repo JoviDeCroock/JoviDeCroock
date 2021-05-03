@@ -7,8 +7,6 @@ I'm a [Technical lead at Formidable](https://formidable.com/), I'd describe myse
 - [urql](https://github.com/FormidableLabs/urql)
 - [Prefresh](https://github.com/JoviDeCroock/prefresh)
 - [Hoofd](https://github.com/JoviDeCroock/hoofd)
-- [Hooked-form](https://github.com/JoviDeCroock/Hooked-Form)
-- [webpack-module-nomodule-plugin](https://github.com/JoviDeCroock/webpack-module-nomodule-plugin)
 
 Some information about me
 
