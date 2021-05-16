@@ -11,7 +11,7 @@ I'm a [Technical lead at Formidable](https://formidable.com/), I'd describe myse
 Some information about me
 
 - 🔭 I’m currently working on The above OSS projects
-- 🌱 I’m currently learning AWS and K8s
+- 🌱 I’m currently learning Terraform and Serverless
 - 👯 I’m looking to collaborate on performance-related projects
 - 💬 Ask me about Preact, urql or GraphQL
 - 📫 How to reach me: [Twitter](https://twitter.com/JoviDeC)
