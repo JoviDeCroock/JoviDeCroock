@@ -5,7 +5,7 @@ I'm a [Technical lead at Formidable](https://formidable.com/), I'd describe myse
 - [urql](https://github.com/FormidableLabs/urql)
 - [Preact](https://github.com/preactjs/preact)
 - [wmr](https://github.com/preactjs/wmr)
-- [Prefresh](https://github.com/JoviDeCroock/prefresh)
+- [Prefresh](https://github.com/preactjs/prefresh)
 - [Hoofd](https://github.com/JoviDeCroock/hoofd)
 
 Some information about me
