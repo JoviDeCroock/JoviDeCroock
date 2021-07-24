@@ -1,6 +1,9 @@
-Hey 👋 I'm Jovi
+Hey 👋
 
-I'm a [Technical lead at Formidable](https://formidable.com/), I'd describe myself a full stack developer. I'm involved in some Open-source work like:
+let me introduce myself, my name is Jovi, I'm a [Technical lead at Formidable](https://formidable.com/).
+I'd describe myself as a full stack developer.
+
+I'm passionate about Open-source and maintain several projects:
 
 - [urql](https://github.com/FormidableLabs/urql)
 - [Preact](https://github.com/preactjs/preact)
