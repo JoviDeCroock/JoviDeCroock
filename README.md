@@ -16,7 +16,7 @@ I'm passionate about Open-source and maintain several projects:
 Some information about me
 
 - 🔭 I’m currently working on The above OSS projects
-- 🌱 I’m currently learning Terraform and AWS
+- 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on performance-related projects
 - 💬 Ask me about Preact, urql or GraphQL - always open for conversations on Twitter!
 - 📫 How to reach me: [Twitter](https://twitter.com/JoviDeC)
