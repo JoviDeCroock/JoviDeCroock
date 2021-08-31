@@ -1,9 +1,8 @@
 Hey 👋
 
-let me introduce myself, my name is Jovi, I'm a [Technical lead at Formidable](https://formidable.com/).
-I'd describe myself as a full stack developer.
+let me introduce myself, my name is Jovi, I'd describe myself as a full stack developer.
 
-I'm passionate about Open-source and maintain several projects:
+I'm passionate about Open-source and maintain several projects
 
 - [urql](https://github.com/FormidableLabs/urql)
 - [Preact](https://github.com/preactjs/preact)
@@ -12,6 +11,10 @@ I'm passionate about Open-source and maintain several projects:
 - [Hoofd](https://github.com/JoviDeCroock/hoofd)
 - [webpack-module-nomodule-plugin](https://github.com/JoviDeCroock/webpack-module-nomodule-plugin)
 - [use-web-animation](https://github.com/JoviDeCroock/use-web-animation)
+
+Formerly at
+
+- [Formidable](https://formidable.com/)
 
 Some information about me
 
