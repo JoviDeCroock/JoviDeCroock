@@ -12,7 +12,7 @@ I'm passionate about Open-source and maintain several projects
 - [webpack-module-nomodule-plugin](https://github.com/JoviDeCroock/webpack-module-nomodule-plugin)
 - [use-web-animation](https://github.com/JoviDeCroock/use-web-animation)
 
-Formerly at
+Formerly employed at
 
 - [Formidable](https://formidable.com/)
 
