@@ -1,6 +1,7 @@
 Hey 👋
 
 let me introduce myself, my name is Jovi, I'd describe myself as a full stack developer.
+I'm currently employed as a Staff Software Engineer at [GraphCDN](https://graphcdn.io/).
 
 I'm passionate about Open-source and maintain several projects
 
