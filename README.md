@@ -7,7 +7,6 @@ I'm passionate about Open-source and maintain several projects
 
 - [urql](https://github.com/FormidableLabs/urql)
 - [Preact](https://github.com/preactjs/preact)
-- [wmr](https://github.com/preactjs/wmr)
 - [Prefresh](https://github.com/preactjs/prefresh)
 - [Hoofd](https://github.com/JoviDeCroock/hoofd)
 - [use-web-animation](https://github.com/JoviDeCroock/use-web-animation)
