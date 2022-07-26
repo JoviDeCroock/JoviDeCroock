@@ -1,7 +1,7 @@
 Hey 👋
 
 let me introduce myself, my name is Jovi, I'd describe myself as a full stack developer.
-I'm currently employed as a Staff Software Engineer at [Stellate](https://stellate.co/).
+I'm currently employed as a Software Engineer at [Stellate](https://stellate.co/).
 
 I'm passionate about Open-source and maintain several projects
 
