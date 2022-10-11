@@ -20,6 +20,6 @@ Some information about me
 - 🔭 I’m currently working on The above OSS projects
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on performance-related and GraphQL projects
-- 💬 Ask me about Preact, urql or GraphQL - always open for conversations on Twitter!
+- 💬 Ask me about front-end frameworks or GraphQL - always open for conversations on Twitter!
 - 📫 How to reach me: [Twitter](https://twitter.com/JoviDeC)
 - 😄 Pronouns: he/him
