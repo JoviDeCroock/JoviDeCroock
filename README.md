@@ -6,8 +6,10 @@ I'm currently employed as a Software Engineer.
 I'm passionate about Open-source and help maintain several projects
 
 - [Preact](https://github.com/preactjs/preact)
+- [Preact-render-to-string](https://github.com/preactjs/preact-render-to-string)
+- [Signals](https://github.com/preactjs/signals)
 - [Prefresh](https://github.com/preactjs/prefresh)
-- [Hoofd](https://github.com/JoviDeCroock/hoofd)
+- [Hoofd](https://github.com/0no-co/hoofd)
 - [use-web-animation](https://github.com/JoviDeCroock/use-web-animation)
 - [urql](https://github.com/FormidableLabs/urql)
 
