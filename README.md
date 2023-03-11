@@ -1,7 +1,7 @@
 Hey 👋
 
 let me introduce myself, my name is Jovi, I'd describe myself as a full stack developer.
-I'm currently employed as a Software Engineer.
+I'm currently employed as a Software Engineer at [Stellate](https://stellate.co).
 
 I'm passionate about Open-source and help maintain several projects
 
@@ -9,9 +9,9 @@ I'm passionate about Open-source and help maintain several projects
 - [Preact-render-to-string](https://github.com/preactjs/preact-render-to-string)
 - [Signals](https://github.com/preactjs/signals)
 - [Prefresh](https://github.com/preactjs/prefresh)
+- [urql](https://github.com/FormidableLabs/urql)
 - [Hoofd](https://github.com/0no-co/hoofd)
 - [use-web-animation](https://github.com/JoviDeCroock/use-web-animation)
-- [urql](https://github.com/FormidableLabs/urql)
 
 Formerly employed at
 
