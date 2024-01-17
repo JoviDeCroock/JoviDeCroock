@@ -10,6 +10,7 @@ I'm passionate about Open-source and help maintain several projects
 - [Prefresh](https://github.com/preactjs/prefresh)
 - [Hoofd](https://github.com/0no-co/hoofd)
 - [GraphQLSP](https://github.com/0no-co/graphqlsp)
+- [GQL.tada](https://github.com/0no-co/gql.tada)
 - [urql](https://github.com/urql-graphql/urql)
 
 Formerly employed at
