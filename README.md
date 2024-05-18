@@ -7,11 +7,14 @@ I'm passionate about Open-source and help maintain several projects
 
 - [Preact](https://github.com/preactjs/preact)
 - [Preact-render-to-string](https://github.com/preactjs/preact-render-to-string)
+- [urql](https://github.com/urql-graphql/urql)
+
+(Co-)creator of
+
 - [Prefresh](https://github.com/preactjs/prefresh)
 - [Hoofd](https://github.com/0no-co/hoofd)
 - [GraphQLSP](https://github.com/0no-co/graphqlsp)
 - [GQL.tada](https://github.com/0no-co/gql.tada)
-- [urql](https://github.com/urql-graphql/urql)
 
 Formerly employed at
 
