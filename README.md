@@ -1,7 +1,7 @@
 Hey 👋
 
 let me introduce myself, my name is Jovi, I'd describe myself as a full stack developer.
-I'm currently employed as a Software Engineer at [Stellate](https://stellate.co).
+I'm currently employed as a Software Engineer at x.
 
 I'm passionate about Open-source and help maintain several projects
 
@@ -15,6 +15,7 @@ I'm passionate about Open-source and help maintain several projects
 
 Formerly employed at
 
+- [Stellate](https://stellate.co)
 - [Formidable](https://formidable.com/)
 
 Some information about me
