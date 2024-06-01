@@ -1,7 +1,7 @@
 Hey 👋
 
 let me introduce myself, my name is Jovi, I'd describe myself as a full stack developer.
-I'm currently employed as a Software Engineer at x.
+I'm currently employed as a Software Engineer at Shopify.
 
 I'm passionate about Open-source and help maintain several projects
 
