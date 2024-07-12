@@ -20,7 +20,7 @@ Formerly employed at
 
 - [Stellate](https://stellate.co)
 - [Formidable](https://formidable.com/)
-- [Codiflyl](https://codifly.be/en)
+- [Codifly](https://codifly.be/en)
 
 Some information about me
 
