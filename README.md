@@ -1,7 +1,7 @@
 Hey 👋
 
 let me introduce myself, my name is Jovi, I'd describe myself as a full stack developer.
-I'm currently employed as a Software Engineer at Shopify.
+I'm currently employed as a Software Engineer at [Shopify](https://shopify.com).
 
 I'm passionate about Open-source and help maintain several projects
 
@@ -20,6 +20,7 @@ Formerly employed at
 
 - [Stellate](https://stellate.co)
 - [Formidable](https://formidable.com/)
+- [Codiflyl](https://codifly.be/en)
 
 Some information about me
 
