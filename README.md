@@ -6,6 +6,7 @@ I'm currently employed as a Software Engineer at [Shopify](https://shopify.com).
 I'm passionate about Open-source and help maintain several projects
 
 - [Preact](https://github.com/preactjs/preact)
+- [Signals](https://github.com/preactjs/signals)
 - [Preact-render-to-string](https://github.com/preactjs/preact-render-to-string)
 - [urql](https://github.com/urql-graphql/urql)
 - [GraphQL.JS](https://github.com/graphql/graphql-js)
