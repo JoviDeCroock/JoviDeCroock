@@ -26,7 +26,6 @@ Formerly employed at
 Some information about me
 
 - 🔭 I’m currently working on The above OSS projects
-- 👯 I’m looking to collaborate on performance-related, web and LLM projects
-- 💬 Ask me anything about front-end frameworks - always open for conversations!
+- 💬 Ask me anything about front-end frameworks or LSP's - always open for conversations!
 - 📫 How to reach me: [BlueSky](https://bsky.app/profile/jovidecroock.com) or [Twitter](https://x.com/jovidec)
 - 😄 Pronouns: he/him
