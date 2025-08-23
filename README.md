@@ -26,7 +26,7 @@ Formerly employed at
 Some information about me
 
 - 🔭 I’m currently working on The above OSS projects
-- 👯 I’m looking to collaborate on performance-related and GraphQL projects
+- 👯 I’m looking to collaborate on performance-related, web and LLM projects
 - 💬 Ask me about front-end frameworks or GraphQL - always open for conversations on BlueSky!
 - 📫 How to reach me: [BlueSky](https://bsky.app/profile/jovidecroock.com)
 - 😄 Pronouns: he/him
