@@ -1,7 +1,8 @@
 Hey 👋
 
 let me introduce myself, my name is Jovi, I'd describe myself as a full stack developer.
-I'm currently employed as a Software Engineer at [Shopify](https://shopify.com).
+I'm currently employed as a Software Engineer at [Shopify](https://shopify.com). I occassionally
+blog about my work at [jovidecroock.com](https://jovidecroock.com/blog)
 
 I'm passionate about Open-source and help maintain several projects
 
