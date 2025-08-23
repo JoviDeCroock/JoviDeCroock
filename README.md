@@ -9,7 +9,6 @@ I'm passionate about Open-source and help maintain several projects
 - [Signals](https://github.com/preactjs/signals)
 - [Preact-render-to-string](https://github.com/preactjs/preact-render-to-string)
 - [urql](https://github.com/urql-graphql/urql)
-- [GraphQL.JS](https://github.com/graphql/graphql-js)
 
 (Co-)creator of
 
