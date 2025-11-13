@@ -4,7 +4,7 @@ let me introduce myself, my name is Jovi, I'd describe myself as a full stack de
 I'm currently employed as a Software Engineer at [Shopify](https://shopify.com). I occasionally
 blog about my work at [jovidecroock.com](https://jovidecroock.com/blog)
 
-I'm passionate about Open-source and help maintain several projects
+I'm passionate about Open-source and maintain several projects
 
 - [Preact](https://github.com/preactjs/preact)
 - [Signals](https://github.com/preactjs/signals)
