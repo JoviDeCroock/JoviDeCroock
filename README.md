@@ -18,6 +18,10 @@ I'm passionate about Open-source and help maintain several projects
 - [GraphQLSP](https://github.com/0no-co/graphqlsp)
 - [GQL.tada](https://github.com/0no-co/gql.tada)
 
+Formerly maintained
+
+- [GraphQL-JS](https://github.com/graphql/graphql-js)
+
 Formerly employed at
 
 - [Stellate](https://stellate.co)
