@@ -11,7 +11,7 @@ I'm passionate about Open-source and maintain several projects
 - [Preact-render-to-string](https://github.com/preactjs/preact-render-to-string)
 - [urql](https://github.com/urql-graphql/urql)
 
-(Co-)creator of
+I am the (Co-)creator (and maintainer) of
 
 - [Prefresh](https://github.com/preactjs/prefresh)
 - [Hoofd](https://github.com/0no-co/hoofd)
