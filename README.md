@@ -13,6 +13,7 @@ I'm passionate about Open-source and maintain several projects
 
 I am the (Co-)creator (and maintainer) of
 
+- [Pracht](https://github.com/JoviDeCroock/pracht)
 - [Prefresh](https://github.com/preactjs/prefresh)
 - [Hoofd](https://github.com/0no-co/hoofd)
 - [GraphQLSP](https://github.com/0no-co/graphqlsp)
