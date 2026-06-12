@@ -18,6 +18,7 @@ I am the (Co-)creator (and maintainer) of
 - [Hoofd](https://github.com/0no-co/hoofd)
 - [GraphQLSP](https://github.com/0no-co/graphqlsp)
 - [GQL.tada](https://github.com/0no-co/gql.tada)
+- [Drydock](https://drydock.resynapse.dev)
 
 Formerly maintained
 
